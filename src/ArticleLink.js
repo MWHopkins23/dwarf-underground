@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import ArticleLink from './ArticleLink'
+// import ArticleLink from './ArticleLink'
 import './ArticleLink.css';      
       
 class ArticleLink extends Component {
